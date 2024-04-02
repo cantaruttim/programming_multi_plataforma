@@ -1,0 +1,14 @@
+# Aplicação
+fastapi 0.83.0
+uvicorn 0.16.0
+
+## para criar um arquivo requirements: type nul > "nome_do_arquivo.txt"
+## para rodar a aplicacação: uvicorn main:app --reload
+
+## Instalação
+### pip install "fastapi[all]"
+### pip install "uvicorn[standard]"
+
+
+## VENV
+### Para rodar essa aplicação utilize a venv : multiplatfastapi
